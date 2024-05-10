@@ -46,6 +46,7 @@ Este projeto busca resolver este problema utilizando o Gemini. La ideia basicame
 # Roadmap
 - Aceder ao conteúdo de um JSON de exemplo: **Done!**
 - Convertê-lo em Dataframe: **Done!**
-- Ensinar ao modelo a entender os parâmetros: **In progress!**
+- Testar o método de "embedding" para comparar consultas com uma coluna do conteúdo: **Done!**
+- Embeddar todo o conteúdo: **In progress!**
 - Aceder ao conteúdo desde uma JSON API: **Backlog**
 - Criar um chat bot para interação: **Backlog**
