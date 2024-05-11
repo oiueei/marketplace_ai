@@ -4,7 +4,7 @@
    "From": "ES-28001 Madrid",
    "To": "ES-01001 Vitoria-Gasteiz",
    "Distance": "354 km",
-   "Tiempo": "4h 58m",
+   "Duration": "4h 58m",
    "Date": "09/05",
    "Type of truck": "Box",
    "Weight": "0,1 t",
@@ -12,14 +12,14 @@
    "Contact": "+34 756 56 45",
    "Equipament": "Tail Lift",
    "Cerificates": "",
-   "Pallets": null
+   "Pallets": ""
  },
  {
    "ID": "N00033",
    "From": "ES-28864 Ajalvir",
    "To": "ES-08820  Prat De Llobregat",
    "Distance": "592 km",
-   "Tiempo": "8h 1m",
+   "Duration": "8h 1m",
    "Date": "09/05",
    "Type of truck": "Tautliner",
    "Weight": "0,1 t",
@@ -27,14 +27,14 @@
    "Contact": "+34 741 82 46",
    "Equipament": "",
    "Cerificates": "",
-   "Pallets": null
+   "Pallets": ""
  },
  {
    "ID": "M00056",
    "From": "ES-08001 Barcelona",
    "To": "ES-24420  Fabero",
    "Distance": "927 km",
-   "Tiempo": "12h 56m",
+   "Duration": "12h 56m",
    "Date": "09/05",
    "Type of truck": "Tautliner",
    "Weight": "0,1 t",
@@ -49,7 +49,7 @@
    "From": "ES-28830  San Fernando De Henares",
    "To": "ES-20303 Irun",
    "Distance": "465 km",
-   "Tiempo": "6h 26m",
+   "Duration": "6h 26m",
    "Date": "10/05",
    "Type of truck": "Tautliner",
    "Weight": "0,2 t",
@@ -57,14 +57,14 @@
    "Contact": "+34 768 66 86",
    "Equipament": "",
    "Cerificates": "",
-   "Pallets": null
+   "Pallets": ""
  },
  {
    "ID": "X00053",
    "From": "ES-29300  Archidona",
    "To": "ES-41440  Lora del Río",
    "Distance": "178 km",
-   "Tiempo": "2h 53m",
+   "Duration": "2h 53m",
    "Date": "09/05",
    "Type of truck": "Frigo",
    "Weight": "0,4 t",
@@ -79,7 +79,7 @@
    "From": "ES-20240  Ordizia",
    "To": "ES-08211 Castellar del Vallès",
    "Distance": "561 km",
-   "Tiempo": "7h 57m",
+   "Duration": "7h 57m",
    "Date": "10/05",
    "Type of truck": "Tautliner",
    "Weight": "0,5 t",
@@ -87,14 +87,14 @@
    "Contact": "+34 764 56 88",
    "Equipament": "",
    "Cerificates": "",
-   "Pallets": null
+   "Pallets": ""
  },
  {
    "ID": "D00043",
    "From": "ES-08001 Barcelona",
    "To": "ES-09200  Miranda de Ebro",
    "Distance": "534 km",
-   "Tiempo": "8h 53m",
+   "Duration": "8h 53m",
    "Date": "10/05",
    "Type of truck": "Frigo",
    "Weight": "0,8 t",
@@ -102,14 +102,14 @@
    "Contact": "+34 708 38 36",
    "Equipament": "",
    "Cerificates": "",
-   "Pallets": null
+   "Pallets": ""
  },
  {
    "ID": "K00052",
    "From": "ES-46940  Manises",
    "To": "ES-04620  Vera",
    "Distance": "361 km",
-   "Tiempo": "5h 8m",
+   "Duration": "5h 8m",
    "Date": "09/05",
    "Type of truck": "Tautliner",
    "Weight": "0,9 t",
@@ -117,14 +117,14 @@
    "Contact": "+34 741 82 46",
    "Equipament": "",
    "Cerificates": "",
-   "Pallets": null
+   "Pallets": ""
  },
  {
    "ID": "P00018",
    "From": "ES-28042 Barajas De Madrid",
    "To": "ES-46394 Ventas De Poyo",
    "Distance": "276 km",
-   "Tiempo": "3h 53m",
+   "Duration": "3h 53m",
    "Date": "09/05",
    "Type of truck": "Frigo",
    "Weight": "1,1 t",
@@ -139,7 +139,7 @@
    "From": "ES-32002 Ourense",
    "To": "ES-48002 Bilbao",
    "Distance": "612 km",
-   "Tiempo": "8h 19m",
+   "Duration": "8h 19m",
    "Date": "10/05",
    "Type of truck": "Frigo",
    "Weight": "1,4 t",
@@ -147,14 +147,14 @@
    "Contact": "+34 769 59 87",
    "Equipament": "",
    "Cerificates": "",
-   "Pallets": null
+   "Pallets": ""
  },
  {
    "ID": "C00052",
    "From": "ES-33001 Oviedo",
    "To": "ES-31001 Pamplona",
    "Distance": "449 km",
-   "Tiempo": "6h 40m",
+   "Duration": "6h 40m",
    "Date": "10/05",
    "Type of truck": "Box",
    "Weight": "1,5 t",
@@ -162,14 +162,14 @@
    "Contact": "+34 769 59 87",
    "Equipament": "Tail Lift",
    "Cerificates": "",
-   "Pallets": null
+   "Pallets": ""
  },
  {
    "ID": "T00026",
    "From": "ES-17469 Vilamalla",
    "To": "ES-46940  Manises",
    "Distance": "480 km",
-   "Tiempo": "6h 30m",
+   "Duration": "6h 30m",
    "Date": "10/05",
    "Type of truck": "Tautliner",
    "Weight": "1,8 t",
@@ -177,14 +177,14 @@
    "Contact": "+34 741 00 23",
    "Equipament": "",
    "Cerificates": "",
-   "Pallets": null
+   "Pallets": ""
  },
  {
    "ID": "F00031",
    "From": "ES-50171 La Puebla de Alfindén",
    "To": "ES-20400  Tolosa",
    "Distance": "590 km",
-   "Tiempo": "8h 53m",
+   "Duration": "8h 53m",
    "Date": "09/05",
    "Type of truck": "Tautliner",
    "Weight": "1,8 t",
@@ -192,14 +192,14 @@
    "Contact": "+34 708 38 36",
    "Equipament": "",
    "Cerificates": "",
-   "Pallets": null
+   "Pallets": ""
  },
  {
    "ID": "I00012",
    "From": "ES-45519 Novés",
    "To": "ES-20001 San Sebastián",
    "Distance": "524 km",
-   "Tiempo": "7h 25m",
+   "Duration": "7h 25m",
    "Date": "10/05",
    "Type of truck": "Frigo",
    "Weight": "10 t",
@@ -214,7 +214,7 @@
    "From": "ES-46184 Antonio de Benagéber",
    "To": "ES-11690  Olvera",
    "Distance": "673 km",
-   "Tiempo": "9h 41m",
+   "Duration": "9h 41m",
    "Date": "09/05",
    "Type of truck": "Frigo",
    "Weight": "12,5 t",
@@ -222,14 +222,14 @@
    "Contact": "+34 768 66 86",
    "Equipament": "Pallet Jack",
    "Cerificates": "",
-   "Pallets": null
+   "Pallets": ""
  },
  {
    "ID": "A00035",
    "From": "ES-46001 Valencia",
    "To": "ES-31870  Lecumberri",
    "Distance": "525 km",
-   "Tiempo": "7h 12m",
+   "Duration": "7h 12m",
    "Date": "10/05",
    "Type of truck": "Tautliner",
    "Weight": "14,5 t",
@@ -237,14 +237,14 @@
    "Contact": "+34 738 36 79",
    "Equipament": "",
    "Cerificates": "",
-   "Pallets": null
+   "Pallets": ""
  },
  {
    "ID": "Y00041",
    "From": "ES-50600  Ejea de los Caballeros",
    "To": "ES-19200  Azuqueca de Henares",
    "Distance": "308 km",
-   "Tiempo": "5h 59m",
+   "Duration": "5h 59m",
    "Date": "10/05",
    "Type of truck": "Tautliner",
    "Weight": "15 t",
@@ -259,7 +259,7 @@
    "From": "ES-36201 Vigo",
    "To": "ES-28001 Madrid",
    "Distance": "595 km",
-   "Tiempo": "8h 7m",
+   "Duration": "8h 7m",
    "Date": "09/05",
    "Type of truck": "Tautliner",
    "Weight": "15 t",
@@ -267,14 +267,14 @@
    "Contact": "+34 764 56 88",
    "Equipament": "Tail Lift",
    "Cerificates": "",
-   "Pallets": null
+   "Pallets": ""
  },
  {
    "ID": "D00046",
    "From": "ES-36201 Vigo",
    "To": "ES-28001 Madrid",
    "Distance": "595 km",
-   "Tiempo": "8h 7m",
+   "Duration": "8h 7m",
    "Date": "09/05",
    "Type of truck": "Tautliner",
    "Weight": "15 t",
@@ -282,14 +282,14 @@
    "Contact": "+34 738 36 79",
    "Equipament": "Pallet Jack",
    "Cerificates": "",
-   "Pallets": null
+   "Pallets": ""
  },
  {
    "ID": "E00048",
    "From": "ES-50600  Ejea de los Caballeros",
    "To": "ES-19200  Azuqueca de Henares",
    "Distance": "308 km",
-   "Tiempo": "5h 59m",
+   "Duration": "5h 59m",
    "Date": "10/05",
    "Type of truck": "Tautliner",
    "Weight": "15 t",
@@ -304,7 +304,7 @@
    "From": "ES-31153 Eneriz",
    "To": "ES-22520  Fraga",
    "Distance": "285 km",
-   "Tiempo": "4h 6m",
+   "Duration": "4h 6m",
    "Date": "09/05",
    "Type of truck": "Tautliner",
    "Weight": "16 t",
@@ -312,14 +312,14 @@
    "Contact": "+34 742 26 31",
    "Equipament": "",
    "Cerificates": "Waste",
-   "Pallets": null
+   "Pallets": ""
  },
  {
    "ID": "Z00039",
    "From": "ES-06800  Mérida",
    "To": "ES-11310  San Roque",
    "Distance": "390 km",
-   "Tiempo": "5h 45m",
+   "Duration": "5h 45m",
    "Date": "10/05",
    "Type of truck": "Tautliner",
    "Weight": "1 t",
@@ -327,14 +327,14 @@
    "Contact": "+34 741 00 23",
    "Equipament": "",
    "Cerificates": "ADR",
-   "Pallets": null
+   "Pallets": ""
  },
  {
    "ID": "S00057",
    "From": "ES-03400  Villena",
    "To": "ES-08100  Mollet del Vallès",
    "Distance": "480 km",
-   "Tiempo": "6h 38m",
+   "Duration": "6h 38m",
    "Date": "09/05",
    "Type of truck": "Box",
    "Weight": "1 t",
@@ -349,7 +349,7 @@
    "From": "ES-43001 Tarragona",
    "To": "ES-30001 Murcia",
    "Distance": "494 km",
-   "Tiempo": "6h 49m",
+   "Duration": "6h 49m",
    "Date": "09/05",
    "Type of truck": "Jumbo",
    "Weight": "2,5 t",
@@ -357,14 +357,14 @@
    "Contact": "+34 768 66 86",
    "Equipament": "",
    "Cerificates": "",
-   "Pallets": null
+   "Pallets": ""
  },
  {
    "ID": "W00019",
    "From": "ES-30565 Torres de Cotillas",
    "To": "ES-23400  Úbeda",
    "Distance": "296 km",
-   "Tiempo": "5h 26m",
+   "Duration": "5h 26m",
    "Date": "10/05",
    "Type of truck": "Tautliner",
    "Weight": "2,8 t",
@@ -372,14 +372,14 @@
    "Contact": "+34 769 59 87",
    "Equipament": "",
    "Cerificates": "",
-   "Pallets": null
+   "Pallets": ""
  },
  {
    "ID": "F00003",
    "From": "ES-28001 Madrid",
    "To": "ES-15001 Coruña",
    "Distance": "592 km",
-   "Tiempo": "8h 9m",
+   "Duration": "8h 9m",
    "Date": "10/05",
    "Type of truck": "Tautliner",
    "Weight": "24 t",
@@ -394,7 +394,7 @@
    "From": "ES-44001 Teruel",
    "To": "ES-10001 Cáceres",
    "Distance": "603 km",
-   "Tiempo": "8h 55m",
+   "Duration": "8h 55m",
    "Date": "10/05",
    "Type of truck": "Tautliner",
    "Weight": "24 t",
@@ -402,14 +402,14 @@
    "Contact": "+34 741 82 46",
    "Equipament": "",
    "Cerificates": "Waste",
-   "Pallets": null
+   "Pallets": ""
  },
  {
    "ID": "F00007",
    "From": "ES-01400  Llodio",
    "To": "ES-02640  Almansa",
    "Distance": "698 km",
-   "Tiempo": "9h 25m",
+   "Duration": "9h 25m",
    "Date": "10/05",
    "Type of truck": "Tautliner",
    "Weight": "24 t",
@@ -424,7 +424,7 @@
    "From": "ES-46500  Sagunto",
    "To": "ES-41700  Dos Hermanas",
    "Distance": "754 km",
-   "Tiempo": "10h 20m",
+   "Duration": "10h 20m",
    "Date": "10/05",
    "Type of truck": "Mega",
    "Weight": "24 t",
@@ -432,14 +432,14 @@
    "Contact": "+34 742 26 31",
    "Equipament": "",
    "Cerificates": "",
-   "Pallets": null
+   "Pallets": ""
  },
  {
    "ID": "H00010",
    "From": "ES-31013 Ansoáin",
    "To": "ES-10005 Cáceres",
    "Distance": "617 km",
-   "Tiempo": "8h 30m",
+   "Duration": "8h 30m",
    "Date": "13/05",
    "Type of truck": "Tautliner",
    "Weight": "24 t",
@@ -447,14 +447,14 @@
    "Contact": "+34 769 59 87",
    "Equipament": "",
    "Cerificates": "",
-   "Pallets": null
+   "Pallets": ""
  },
  {
    "ID": "R00011",
    "From": "ES-41309 Rinconada",
    "To": "ES-29001 Málaga",
    "Distance": "225 km",
-   "Tiempo": "3h 21m",
+   "Duration": "3h 21m",
    "Date": "10/05",
    "Type of truck": "Tautliner",
    "Weight": "24 t",
@@ -469,7 +469,7 @@
    "From": "ES-28001 Madrid",
    "To": "ES-15701 Santiago de Compostela",
    "Distance": "600 km",
-   "Tiempo": "8h 10m",
+   "Duration": "8h 10m",
    "Date": "10/05",
    "Type of truck": "Tautliner",
    "Weight": "24 t",
@@ -484,7 +484,7 @@
    "From": "ES-12001 Castellón de la Plana",
    "To": "ES-28220  Majadahonda",
    "Distance": "543 km",
-   "Tiempo": "7h 32m",
+   "Duration": "7h 32m",
    "Date": "13/05",
    "Type of truck": "Tautliner",
    "Weight": "24 t",
@@ -492,14 +492,14 @@
    "Contact": "+34 741 00 23",
    "Equipament": "Pallet Jack",
    "Cerificates": "",
-   "Pallets": null
+   "Pallets": ""
  },
  {
    "ID": "B00517",
    "From": "ES-43001 Tarragona",
    "To": "ES-45001 Toledo",
    "Distance": "617 km",
-   "Tiempo": "8h 30m",
+   "Duration": "8h 30m",
    "Date": "10/05",
    "Type of truck": "Tautliner",
    "Weight": "24 t",
@@ -514,7 +514,7 @@
    "From": "ES-28760  Tres Cantos",
    "To": "ES-47620  Villanubla",
    "Distance": "228 km",
-   "Tiempo": "3h 20m",
+   "Duration": "3h 20m",
    "Date": "09/05",
    "Type of truck": "Tautliner",
    "Weight": "24 t",
@@ -522,14 +522,14 @@
    "Contact": "+34 708 38 36",
    "Equipament": "Tail Lift",
    "Cerificates": "",
-   "Pallets": null
+   "Pallets": ""
  },
  {
    "ID": "N00022",
    "From": "ES-22001 Huesca",
    "To": "ES-08400  Granollers",
    "Distance": "274 km",
-   "Tiempo": "3h 54m",
+   "Duration": "3h 54m",
    "Date": "10/05",
    "Type of truck": "Tautliner",
    "Weight": "24 t",
@@ -544,7 +544,7 @@
    "From": "ES-50690  Pedrola",
    "To": "ES-15142 Arteixo",
    "Distance": "769 km",
-   "Tiempo": "10h 28m",
+   "Duration": "10h 28m",
    "Date": "10/05",
    "Type of truck": "Tautliner",
    "Weight": "24 t",
@@ -559,7 +559,7 @@
    "From": "ES-17403 Sant Hilari Sacalm",
    "To": "ES-19001 Guadalajara",
    "Distance": "594 km",
-   "Tiempo": "8h 4m",
+   "Duration": "8h 4m",
    "Date": "09/05",
    "Type of truck": "Tautliner",
    "Weight": "24 t",
@@ -574,7 +574,7 @@
    "From": "ES-08001 Barcelona",
    "To": "ES-46001 Valencia",
    "Distance": "350 km",
-   "Tiempo": "4h 55m",
+   "Duration": "4h 55m",
    "Date": "10/05",
    "Type of truck": "Tautliner",
    "Weight": "24 t",
@@ -589,7 +589,7 @@
    "From": "ES-06011 Badajoz",
    "To": "ES-28001 Madrid",
    "Distance": "402 km",
-   "Tiempo": "5h 38m",
+   "Duration": "5h 38m",
    "Date": "10/05",
    "Type of truck": "Tautliner",
    "Weight": "24 t",
@@ -604,7 +604,7 @@
    "From": "ES-50720  Cartuja Baja",
    "To": "ES-20001 San Sebastián",
    "Distance": "276 km",
-   "Tiempo": "3h 55m",
+   "Duration": "3h 55m",
    "Date": "10/05",
    "Type of truck": "Tautliner",
    "Weight": "2 t",
@@ -612,14 +612,14 @@
    "Contact": "+34 742 26 31",
    "Equipament": "Tail Lift",
    "Cerificates": "",
-   "Pallets": null
+   "Pallets": ""
  },
  {
    "ID": "L00050",
    "From": "ES-47001 Valladolid",
    "To": "ES-23700  Linares",
    "Distance": "514 km",
-   "Tiempo": "7h 9m",
+   "Duration": "7h 9m",
    "Date": "10/05",
    "Type of truck": "Tautliner",
    "Weight": "2 t",
@@ -634,7 +634,7 @@
    "From": "ES-28001 Madrid",
    "To": "ES-24001 León",
    "Distance": "339 km",
-   "Tiempo": "4h 50m",
+   "Duration": "4h 50m",
    "Date": "13/05",
    "Type of truck": "Tautliner",
    "Weight": "3,1 t",
@@ -642,14 +642,14 @@
    "Contact": "+34 742 26 31",
    "Equipament": "",
    "Cerificates": "",
-   "Pallets": null
+   "Pallets": ""
  },
  {
    "ID": "F00058",
    "From": "ES-46001 Valencia",
    "To": "ES-08001 Barcelona",
    "Distance": "349 km",
-   "Tiempo": "5h 6m",
+   "Duration": "5h 6m",
    "Date": "09/05",
    "Type of truck": "Tautliner",
    "Weight": "3,5 t",
@@ -664,7 +664,7 @@
    "From": "ES-36330  Vigo",
    "To": "ES-03158 Catral",
    "Distance": "339 km",
-   "Tiempo": "5h 45m",
+   "Duration": "5h 45m",
    "Date": "10/05",
    "Type of truck": "Tautliner",
    "Weight": "3 t",
@@ -672,14 +672,14 @@
    "Contact": "+34 741 82 46",
    "Equipament": "",
    "Cerificates": "",
-   "Pallets": null
+   "Pallets": ""
  },
  {
    "ID": "B00540",
    "From": "ES-17843 Palol de Revardit",
    "To": "ES-08211 Castellar del Vallès",
    "Distance": "110 km",
-   "Tiempo": "1h 57m",
+   "Duration": "1h 57m",
    "Date": "10/05",
    "Type of truck": "Box",
    "Weight": "3 t",
@@ -687,14 +687,14 @@
    "Contact": "+34 768 66 86",
    "Equipament": "",
    "Cerificates": "",
-   "Pallets": null
+   "Pallets": ""
  },
  {
    "ID": "K00027",
    "From": "ES-28940  Fuenlabrada",
    "To": "ES-45360  Villarrubia de Santiago",
    "Distance": "63 km",
-   "Tiempo": "59m",
+   "Duration": "59m",
    "Date": "09/05",
    "Type of truck": "Tautliner",
    "Weight": "4 t",
@@ -709,7 +709,7 @@
    "From": "ES-28802 Alcalá de Henares",
    "To": "ES-08001 Barcelona",
    "Distance": "590 km",
-   "Tiempo": "9h 40m",
+   "Duration": "9h 40m",
    "Date": "09/05",
    "Type of truck": "Mega",
    "Weight": "4 t",
@@ -724,7 +724,7 @@
    "From": "ES-28001 Madrid",
    "To": "ES-49001 Zamora",
    "Distance": "254 km",
-   "Tiempo": "3h 43m",
+   "Duration": "3h 43m",
    "Date": "10/05",
    "Type of truck": "Tautliner",
    "Weight": "4 t",
@@ -739,7 +739,7 @@
    "From": "ES-46001 Valencia",
    "To": "ES-28049 Valdelatas",
    "Distance": "368 km",
-   "Tiempo": "5h 5m",
+   "Duration": "5h 5m",
    "Date": "10/05",
    "Type of truck": "Tautliner",
    "Weight": "4 t",
@@ -747,14 +747,14 @@
    "Contact": "+34 741 00 23",
    "Equipament": "",
    "Cerificates": "",
-   "Pallets": null
+   "Pallets": ""
  },
  {
    "ID": "N00062",
    "From": "ES-43570  Santa Bárbara",
    "To": "ES-48340  Amorebieta",
    "Distance": "558 km",
-   "Tiempo": "8h 29m",
+   "Duration": "8h 29m",
    "Date": "10/05",
    "Type of truck": "Tautliner",
    "Weight": "5,1 t",
@@ -762,14 +762,14 @@
    "Contact": "+34 764 56 88",
    "Equipament": "",
    "Cerificates": "",
-   "Pallets": null
+   "Pallets": ""
  },
  {
    "ID": "V00047",
    "From": "ES-03001 Alicante",
    "To": "ES-15001 Coruña",
    "Distance": "1018 km",
-   "Tiempo": "13h 43m",
+   "Duration": "13h 43m",
    "Date": "11/05",
    "Type of truck": "Tautliner",
    "Weight": "6 t",
@@ -784,7 +784,7 @@
    "From": "ES-24400  Ponferrada",
    "To": "ES-37001 Salamanca",
    "Distance": "276 km",
-   "Tiempo": "4h 55m",
+   "Duration": "4h 55m",
    "Date": "09/05",
    "Type of truck": "Tautliner",
    "Weight": "6 t",
@@ -799,7 +799,7 @@
    "From": "ES-41001 Sevilla",
    "To": "ES-19001 Guadalajara",
    "Distance": "587 km",
-   "Tiempo": "8h 5m",
+   "Duration": "8h 5m",
    "Date": "09/05",
    "Type of truck": "Tautliner",
    "Weight": "7,5 t",
@@ -807,14 +807,14 @@
    "Contact": "+34 742 26 31",
    "Equipament": "",
    "Cerificates": "ADR",
-   "Pallets": null
+   "Pallets": ""
  },
  {
    "ID": "F00059",
    "From": "ES-31001 Pamplona",
    "To": "ES-09580  Valle de Mena",
    "Distance": "195 km",
-   "Tiempo": "3h 11m",
+   "Duration": "3h 11m",
    "Date": "13/05",
    "Type of truck": "Mega",
    "Weight": "7 t",
@@ -822,14 +822,14 @@
    "Contact": "+34 769 59 87",
    "Equipament": "Tail Lift",
    "Cerificates": "",
-   "Pallets": null
+   "Pallets": ""
  },
  {
    "ID": "D00060",
    "From": "ES-04230  Huércal de Almería",
    "To": "ES-14004 Córdoba",
    "Distance": "349 km",
-   "Tiempo": "4h 52m",
+   "Duration": "4h 52m",
    "Date": "13/05",
    "Type of truck": "Frigo",
    "Weight": "7 t",
@@ -837,14 +837,14 @@
    "Contact": "+34 742 26 31",
    "Equipament": "",
    "Cerificates": "",
-   "Pallets": null
+   "Pallets": ""
  },
  {
    "ID": "Q00037",
    "From": "ES-01001 Vitoria-Gasteiz",
    "To": "ES-33001 Oviedo",
    "Distance": "342 km",
-   "Tiempo": "5h 47m",
+   "Duration": "5h 47m",
    "Date": "13/05",
    "Type of truck": "Mega",
    "Weight": "8 t",
@@ -859,7 +859,7 @@
    "From": "ES-46001 Valencia",
    "To": "ES-08800  Vilanova i la Geltrú",
    "Distance": "302 km",
-   "Tiempo": "4h 19m",
+   "Duration": "4h 19m",
    "Date": "09/05",
    "Type of truck": "Tautliner",
    "Weight": "8 t",
@@ -867,14 +867,14 @@
    "Contact": "+34 742 26 31",
    "Equipament": "",
    "Cerificates": "",
-   "Pallets": null
+   "Pallets": ""
  },
  {
    "ID": "A00004",
    "From": "ES-28001 Madrid",
    "To": "ES-29330  Almargen",
    "Distance": "544 km",
-   "Tiempo": "7h 42m",
+   "Duration": "7h 42m",
    "Date": "10/05",
    "Type of truck": "Box",
    "Weight": "9,5 t",
@@ -882,14 +882,14 @@
    "Contact": "+34 764 56 88",
    "Equipament": "",
    "Cerificates": "",
-   "Pallets": null
+   "Pallets": ""
  },
  {
    "ID": "U00054",
    "From": "ES-24750  Bañeza",
    "To": "ES-33750  Caridad",
    "Distance": "286 km",
-   "Tiempo": "4h 1m",
+   "Duration": "4h 1m",
    "Date": "09/05",
    "Type of truck": "Mega",
    "Weight": "9,6 t",
@@ -904,7 +904,7 @@
    "From": "ES-24750  Bañeza",
    "To": "ES-27700  Ribadeo",
    "Distance": "305 km",
-   "Tiempo": "4h 14m",
+   "Duration": "4h 14m",
    "Date": "09/05",
    "Type of truck": "Tautliner",
    "Weight": "9,6 t",
@@ -912,14 +912,14 @@
    "Contact": "+34 741 00 23",
    "Equipament": "",
    "Cerificates": "",
-   "Pallets": null
+   "Pallets": ""
  },
  {
    "ID": "B00006",
    "From": "ES-30800  Lorca",
    "To": "ES-21810  Palos de la Frontera",
    "Distance": "551 km",
-   "Tiempo": "9h 18m",
+   "Duration": "9h 18m",
    "Date": "09/05",
    "Type of truck": "Tautliner",
    "Weight": "9 t",
@@ -927,6 +927,6 @@
    "Contact": "+34 756 56 45",
    "Equipament": "",
    "Cerificates": "",
-   "Pallets": null
+   "Pallets": ""
  }
 ]
