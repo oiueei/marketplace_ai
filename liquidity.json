@@ -12,7 +12,7 @@
    "Contact": "+34 756 56 45",
    "Equipament": "Tail Lift",
    "Cerificates": "",
-   "Pallets": ""
+   "Pallets": 0
  },
  {
    "ID": "N00033",
@@ -27,7 +27,7 @@
    "Contact": "+34 741 82 46",
    "Equipament": "",
    "Cerificates": "",
-   "Pallets": ""
+   "Pallets": 0
  },
  {
    "ID": "M00056",
@@ -57,7 +57,7 @@
    "Contact": "+34 768 66 86",
    "Equipament": "",
    "Cerificates": "",
-   "Pallets": ""
+   "Pallets": 0
  },
  {
    "ID": "X00053",
@@ -87,7 +87,7 @@
    "Contact": "+34 764 56 88",
    "Equipament": "",
    "Cerificates": "",
-   "Pallets": ""
+   "Pallets": 0
  },
  {
    "ID": "D00043",
@@ -102,7 +102,7 @@
    "Contact": "+34 708 38 36",
    "Equipament": "",
    "Cerificates": "",
-   "Pallets": ""
+   "Pallets": 0
  },
  {
    "ID": "K00052",
@@ -117,7 +117,7 @@
    "Contact": "+34 741 82 46",
    "Equipament": "",
    "Cerificates": "",
-   "Pallets": ""
+   "Pallets": 0
  },
  {
    "ID": "P00018",
@@ -147,7 +147,7 @@
    "Contact": "+34 769 59 87",
    "Equipament": "",
    "Cerificates": "",
-   "Pallets": ""
+   "Pallets": 0
  },
  {
    "ID": "C00052",
@@ -162,7 +162,7 @@
    "Contact": "+34 769 59 87",
    "Equipament": "Tail Lift",
    "Cerificates": "",
-   "Pallets": ""
+   "Pallets": 0
  },
  {
    "ID": "T00026",
@@ -177,7 +177,7 @@
    "Contact": "+34 741 00 23",
    "Equipament": "",
    "Cerificates": "",
-   "Pallets": ""
+   "Pallets": 0
  },
  {
    "ID": "F00031",
@@ -192,7 +192,7 @@
    "Contact": "+34 708 38 36",
    "Equipament": "",
    "Cerificates": "",
-   "Pallets": ""
+   "Pallets": 0
  },
  {
    "ID": "I00012",
@@ -222,7 +222,7 @@
    "Contact": "+34 768 66 86",
    "Equipament": "Pallet Jack",
    "Cerificates": "",
-   "Pallets": ""
+   "Pallets": 0
  },
  {
    "ID": "A00035",
@@ -237,7 +237,7 @@
    "Contact": "+34 738 36 79",
    "Equipament": "",
    "Cerificates": "",
-   "Pallets": ""
+   "Pallets": 0
  },
  {
    "ID": "Y00041",
@@ -267,7 +267,7 @@
    "Contact": "+34 764 56 88",
    "Equipament": "Tail Lift",
    "Cerificates": "",
-   "Pallets": ""
+   "Pallets": 0
  },
  {
    "ID": "D00046",
@@ -282,7 +282,7 @@
    "Contact": "+34 738 36 79",
    "Equipament": "Pallet Jack",
    "Cerificates": "",
-   "Pallets": ""
+   "Pallets": 0
  },
  {
    "ID": "E00048",
@@ -312,7 +312,7 @@
    "Contact": "+34 742 26 31",
    "Equipament": "",
    "Cerificates": "Waste",
-   "Pallets": ""
+   "Pallets": 0
  },
  {
    "ID": "Z00039",
@@ -327,7 +327,7 @@
    "Contact": "+34 741 00 23",
    "Equipament": "",
    "Cerificates": "ADR",
-   "Pallets": ""
+   "Pallets": 0
  },
  {
    "ID": "S00057",
@@ -357,7 +357,7 @@
    "Contact": "+34 768 66 86",
    "Equipament": "",
    "Cerificates": "",
-   "Pallets": ""
+   "Pallets": 0
  },
  {
    "ID": "W00019",
@@ -372,7 +372,7 @@
    "Contact": "+34 769 59 87",
    "Equipament": "",
    "Cerificates": "",
-   "Pallets": ""
+   "Pallets": 0
  },
  {
    "ID": "F00003",
@@ -402,7 +402,7 @@
    "Contact": "+34 741 82 46",
    "Equipament": "",
    "Cerificates": "Waste",
-   "Pallets": ""
+   "Pallets": 0
  },
  {
    "ID": "F00007",
@@ -432,7 +432,7 @@
    "Contact": "+34 742 26 31",
    "Equipament": "",
    "Cerificates": "",
-   "Pallets": ""
+   "Pallets": 0
  },
  {
    "ID": "H00010",
@@ -447,7 +447,7 @@
    "Contact": "+34 769 59 87",
    "Equipament": "",
    "Cerificates": "",
-   "Pallets": ""
+   "Pallets": 0
  },
  {
    "ID": "R00011",
@@ -492,7 +492,7 @@
    "Contact": "+34 741 00 23",
    "Equipament": "Pallet Jack",
    "Cerificates": "",
-   "Pallets": ""
+   "Pallets": 0
  },
  {
    "ID": "B00517",
@@ -522,7 +522,7 @@
    "Contact": "+34 708 38 36",
    "Equipament": "Tail Lift",
    "Cerificates": "",
-   "Pallets": ""
+   "Pallets": 0
  },
  {
    "ID": "N00022",
@@ -612,7 +612,7 @@
    "Contact": "+34 742 26 31",
    "Equipament": "Tail Lift",
    "Cerificates": "",
-   "Pallets": ""
+   "Pallets": 0
  },
  {
    "ID": "L00050",
@@ -642,7 +642,7 @@
    "Contact": "+34 742 26 31",
    "Equipament": "",
    "Cerificates": "",
-   "Pallets": ""
+   "Pallets": 0
  },
  {
    "ID": "F00058",
@@ -672,7 +672,7 @@
    "Contact": "+34 741 82 46",
    "Equipament": "",
    "Cerificates": "",
-   "Pallets": ""
+   "Pallets": 0
  },
  {
    "ID": "B00540",
@@ -687,7 +687,7 @@
    "Contact": "+34 768 66 86",
    "Equipament": "",
    "Cerificates": "",
-   "Pallets": ""
+   "Pallets": 0
  },
  {
    "ID": "K00027",
@@ -747,7 +747,7 @@
    "Contact": "+34 741 00 23",
    "Equipament": "",
    "Cerificates": "",
-   "Pallets": ""
+   "Pallets": 0
  },
  {
    "ID": "N00062",
@@ -762,7 +762,7 @@
    "Contact": "+34 764 56 88",
    "Equipament": "",
    "Cerificates": "",
-   "Pallets": ""
+   "Pallets": 0
  },
  {
    "ID": "V00047",
@@ -807,7 +807,7 @@
    "Contact": "+34 742 26 31",
    "Equipament": "",
    "Cerificates": "ADR",
-   "Pallets": ""
+   "Pallets": 0
  },
  {
    "ID": "F00059",
@@ -822,7 +822,7 @@
    "Contact": "+34 769 59 87",
    "Equipament": "Tail Lift",
    "Cerificates": "",
-   "Pallets": ""
+   "Pallets": 0
  },
  {
    "ID": "D00060",
@@ -837,7 +837,7 @@
    "Contact": "+34 742 26 31",
    "Equipament": "",
    "Cerificates": "",
-   "Pallets": ""
+   "Pallets": 0
  },
  {
    "ID": "Q00037",
@@ -867,7 +867,7 @@
    "Contact": "+34 742 26 31",
    "Equipament": "",
    "Cerificates": "",
-   "Pallets": ""
+   "Pallets": 0
  },
  {
    "ID": "A00004",
@@ -882,7 +882,7 @@
    "Contact": "+34 764 56 88",
    "Equipament": "",
    "Cerificates": "",
-   "Pallets": ""
+   "Pallets": 0
  },
  {
    "ID": "U00054",
@@ -912,7 +912,7 @@
    "Contact": "+34 741 00 23",
    "Equipament": "",
    "Cerificates": "",
-   "Pallets": ""
+   "Pallets": 0
  },
  {
    "ID": "B00006",
@@ -927,6 +927,6 @@
    "Contact": "+34 756 56 45",
    "Equipament": "",
    "Cerificates": "",
-   "Pallets": ""
+   "Pallets": 0
  }
 ]
