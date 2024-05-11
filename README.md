@@ -26,15 +26,15 @@ Este projeto busca resolver este problema utilizando o Gemini. La ideia basicame
 
 # Few shots
 
-| ID | From | To | Distance | Trip | Date | Truck | Length | Weight | Contact |
+| ID | From | To | Distance | Duration | Date | Type of truck | Length | Weight | Contact |
 |---|:--------------------------------|:-------------------------------- |----:|----:|----|:------------------ |----:|----:|-----------------------------|
-| 1 | ES 28001 Madrid | ES 01001 Vitoria-Gasteiz | 354km | 4h58m | 09/05 | Box | 0.1t | 2m | +34 756 56 45 |
-| 2 | ES 33001 Oviedo | ES 31001 Pamplona | 449km | 6h40m | 10/05 | Box | 1.5t | 6m | +34 769 59 87 |
-| 3 | ES 28001 Madrid | ES 15001 Coruña | 592km | 8h9m | 10/05 | Tautliner | 24t | 13.6m | +34 741 00 23 |
+| 1 | ES-28001 Madrid | ES-01001 Vitoria-Gasteiz | 354 km | 4h 58m | 09/05 | Box | 0,1t | 2m | +34 756 56 45 |
+| 2 | ES-33001 Oviedo | ES-31001 Pamplona | 449 km | 6h 40m | 10/05 | Temperature Controlled | 1,5t | 6m | +34 769 59 87 |
+| 3 | ES-28001 Madrid | ES-15001 Coruña | 592 km | 8h 9m | 10/05 | Tautliner | 24t | 13,6m | +34 741 00 23 |
 
 ### Ensinar o Gemini que significa eso
 
-- **"ES 28001 Madrid"**  => **"ES"** de Espanha e o **"28001""** é o CEP e **"Madrid"** é a cidade
+- **"ES-28001 Madrid"**  => **"ES"** de Espanha e o **"28001""** é o CEP e **"Madrid"** é a cidade
 - A primeira localidade (**"From"**) é onde o caminhão carga a mercadoria
 - A segunda localidade (**"To"**) é onde o caminhão descarga a mercadoria
 - **"Distance"** é a distância em quilômetros entre o ponto de carga e de descarga
@@ -47,6 +47,7 @@ Este projeto busca resolver este problema utilizando o Gemini. La ideia basicame
 - Aceder ao conteúdo de um JSON de exemplo: **Done!**
 - Convertê-lo em Dataframe: **Done!**
 - Testar o método de "embedding" para comparar consultas com uma coluna do conteúdo: **Done!**
-- Embeddar todo o conteúdo: **In progress!**
+- Embeddar todo o conteúdo: **Done!**
+- Ensinar o Gemini que significa cada coisa: **In progress**
 - Aceder ao conteúdo desde uma JSON API: **Backlog**
 - Criar um chat bot para interação: **Backlog**
